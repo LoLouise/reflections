@@ -16,3 +16,6 @@ They help you see what updates might be missing from the branches.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 When two branches are merged the changes are combined. The diagram shows to seperate branches joining together with the seperate branches still remaining intact after the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros are that it saves time but the cons are that the auto merging might make mistakes.
