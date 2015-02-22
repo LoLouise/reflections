@@ -13,3 +13,6 @@ When you need to make different or experimental versions of your project. It all
 How do the diagrams help you visualize the branch structure?
 They help to map out where the branches begin split from. 
 They help you see what updates might be missing from the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When two branches are merged the changes are combined. The diagram shows to seperate branches joining together with the seperate branches still remaining intact after the merge.
