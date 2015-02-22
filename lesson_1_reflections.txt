@@ -40,3 +40,6 @@ Viewing a diff between two versions
  may have caused the bug.
 
  I want to try using git for my own projects.
+
+I should go back and add the questions and
+commit changes for each question.
