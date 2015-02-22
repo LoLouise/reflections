@@ -1,0 +1,42 @@
+Viewing a diff between two versions
+ of the same file helped me better 
+ spot a difference between the two. 
+ It is especially useful when a 
+ previous version worked while a 
+ newer version does not. Diff really 
+ helps you easily spot typos. 
+ Overall it makes spot bugs faster. 
+
+ Having access to the entire history
+ of a file allows you to see your 
+ though process and see what mistakes
+ and revision that you needed to make.
+ Allowing you to better review them
+ if you need to make similiar revisions
+ in the future.
+
+ The pros of manually choosing commits
+ is that you are able to choose logical
+ save points. The con is that you risk
+ user error where you forget to save.
+
+ I think Git allows for version control
+ on multiple files at together because
+ coding projects often involve more than
+ multiple files with changes that would 
+ affect one another while this isn't a
+ a common issue with regular documents.
+
+ Git log shows a log of previous saved
+ versions with a mini description of
+ changes made for that version. Git
+ diff allows you to compare two saved
+ version line by line.
+
+ version control makes you more confident
+ because you know that if something breaks
+ you can revert to an older version or 
+ compare version to see which changes
+ may have caused the bug.
+
+ I want to try using git for my own projects.
